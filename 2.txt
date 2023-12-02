@@ -1,0 +1,3 @@
+ no script. Only text.
+# lang=pl
+to drugi plik testowy
