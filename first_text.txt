@@ -1,0 +1,3 @@
+# no script, only text
+# lang=pl
+No cóż. To mój pierwszy plik na github'ie.
