@@ -2,4 +2,5 @@
 # lang=pl
 to drugi plik testowy
 A to jest poierwsza zmiana w tym pliku.
+No i jeszcze trzecia.
 
