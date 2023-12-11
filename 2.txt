@@ -1,4 +1,4 @@
- no script. Only text.
+# no script. Only text.
 # lang=pl
 to drugi plik testowy
 A to jest poierwsza zmiana w tym pliku.
