@@ -1,0 +1,3 @@
+# no script
+# lang=pl
+Jeszcze jeden plik.
