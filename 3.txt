@@ -2,3 +2,4 @@
 # lang=pl
 Jeszcze jeden plik.
 I mała modyfikacja
+i wymuszenie zmiany
