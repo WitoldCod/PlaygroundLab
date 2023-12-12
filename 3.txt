@@ -3,3 +3,8 @@
 Jeszcze jeden plik.
 I mała modyfikacja
 i wymuszenie zmiany
+polskie znaki:
+ęóąśłżźćń
+duże litery:
+ĘÓĄŚŁŻŹĆŃ
+Test polskich znaków.
